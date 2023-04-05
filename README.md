@@ -87,14 +87,12 @@ Example commands:
   cd blog_app
 ```
 
--
-
 ### Install
 
 Install this project with:
 
 ```sh
-  cd blog_app
+  cd blog-app
   gem install
 ```
 
@@ -118,11 +116,8 @@ To run tests, run the following command:
 
 <!-- AUTHORS -->
 
-## 👥 Authors <a name="authors"></a>
-
 👤 **Isiteketo mutau**
 
-👤 **Author**
 - GitHub: [@teke85](https://github.com/teke85)
 - Twitter: [@muttau](https://twitter.com/muttau)
 - LinkedIn: [isiteketo mutau](https://www.linkedin.com/in/isiteketo-mutau-736894241/)
