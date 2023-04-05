@@ -133,8 +133,9 @@ To run tests, run the following command:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[Write SQL queries with Active Record]**
-- [ ] **[Add validations and model specs.]**
+- [ ] **[Add Authorization rules]**
+- [ ] **[Add API endpoints.]**
+- [ ] **[Integration specs for Views and fixing n+1 problems.]**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
