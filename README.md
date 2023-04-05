@@ -83,7 +83,7 @@ Clone this repository to your desired folder:
 Example commands:
 
 ```sh
-  git clone https://github.com/teke85/blog_app.git
+  git clone https://github.com/teke85/blog-app.git
   cd blog_app
 ```
 
@@ -122,9 +122,10 @@ To run tests, run the following command:
 
 👤 **Isiteketo mutau**
 
-- GitHub: [@githubhandle](https://github.com/@teke85)
-- Twitter: [@twitterhandle](https://twitter.com/@muttau)
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/Isiteketo mutau)
+👤 **Author**
+- GitHub: [@teke85](https://github.com/teke85)
+- Twitter: [@muttau](https://twitter.com/muttau)
+- LinkedIn: [isiteketo mutau](https://www.linkedin.com/in/isiteketo-mutau-736894241/)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -145,7 +146,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/teke85/blog_app/issues).
+Feel free to check the [issues page](https://github.com/teke85/blog-app/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
