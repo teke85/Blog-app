@@ -3,10 +3,8 @@ Rails.application.routes.draw do
 
   #User routes
   resources :users, only: [:index, :show] do
-    resources :posts, only: [:index, :show]
+  resources :posts, only: [:index, :show]
   end
 
-  #Home routes
-  get '/', to: 'pages#index'
 
 end
