@@ -1,7 +1,20 @@
 require 'rails_helper'
 
 RSpec.describe 'Posts', type: :request do
-  describe 'GET /index' do
-    pending "add some examples (or delete) #{__FILE__}"
+  context 'GET /index' do
+    it 'renders a successful response' do
+      get user_posts_path(1)
+      expect(response).to be_successful
+    end
+
+    it 'renders the correct template' do
+      get user_posts_path(1)
+      expect(response).to render_template('index')
+    end
+
+     it 'includes correct placeholder text' do
+      get user_posts_path(1)
+      expect(response.body).to include('<h1>Here is a list of posts for a given user</h1>')
+    end
   end
 end
