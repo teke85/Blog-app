@@ -12,7 +12,7 @@ RSpec.describe 'Posts', type: :request do
       expect(response).to render_template('index')
     end
 
-     it 'includes correct placeholder text' do
+    it 'includes correct placeholder text' do
       get user_posts_path(1)
       expect(response.body).to include('<h1>Here is a list of posts for a given user</h1>')
     end
